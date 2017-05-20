@@ -1,2 +1,2 @@
-# PLN
+# Personal learning Notes
 Personal learning Notes
