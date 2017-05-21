@@ -1,6 +1,6 @@
 class Main
     def initialize
-        @name = "Trp"
+        @name = "Trmp"
         main
     end
     def main 
