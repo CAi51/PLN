@@ -2,7 +2,7 @@ class Main
     def initialize
         @name = "Trmp"
         @age = 3
-        @tool = "VSC"
+        @tool = "VSCode"
         main
     end
     def main 
