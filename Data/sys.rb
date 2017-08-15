@@ -1,11 +1,14 @@
 class Main
     def initialize
+        #init
+    end
+    def main 
         loop do
-            main
+            update
             break if $scene != self
         end
     end
-    def main 
+    def update
         puts "Hello World!"
         $scene = nil
     end
